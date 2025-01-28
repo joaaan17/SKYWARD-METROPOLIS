@@ -1,10 +1,6 @@
-# Repositorio para la asignatura Animación del Grado en Ingeniería Multimedia.
-## Grupo 05
-### Miembros:
+### Autor:
 - Joan Girón
-- David González
-- Javier García
-- 
+
 ## Práctica 1: Control Procedural del Movimiento en Blender
 
 ### Introducción
@@ -164,8 +160,3 @@ En esta práctica se busca ampliar el sistema de interpolación desarrollado pre
 - **Práctica 2**: [https://youtu.be/2KJUw3roKng]
 - **Práctica 3**: [https://youtu.be/XK521YXMky8]
 - **Práctica 4**: [https://youtu.be/rngKevSq1Es]
-- **Rigging & Motion Capture**:
-   - **Explicaciones**: [https://youtu.be/FdycfFrMt3Y]
-   - **Renders**: [https://youtu.be/_1TZZupYLxw]
-
----
